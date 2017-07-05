@@ -26,5 +26,9 @@ object S6_LoopYield {
       print("\n" + sum + "\n")
     }
     print("Final " + sum)
+    
+    //Another example of yield
+    val x=for(i<- 1 to 20) yield i*2.5
+    for (z<-x) println(z)
   }
 }
