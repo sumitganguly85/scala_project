@@ -21,5 +21,14 @@ object S3forloop {
       println("another result " + x*x)
       
     }
+    //For each loop
+    array1.foreach(println)
+    array1.foreach(element => 
+                    {
+                      println(element)
+                      println("The square root of element is " + element*element)
+                    }
+                  
+                  )
   }
 }
