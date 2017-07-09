@@ -1,0 +1,4 @@
+#Install Scala in Cent OS
+https://www.vultr.com/docs/how-to-install-scala-on-centos-7
+#Install Scala IDE with Eclipse Luna
+https://www.youtube.com/watch?v=hRHLYaoUbDQ
